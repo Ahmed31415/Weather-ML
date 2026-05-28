@@ -1,0 +1,26 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Local data artifacts
+data/weather.db
+data/raw/*
+data/processed/*
+reports/figures/*
+
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!reports/figures/.gitkeep
+
+# Notebook checkpoints
+.ipynb_checkpoints/
