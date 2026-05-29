@@ -105,16 +105,7 @@ Days are classified as:
 This score is transparent and educational. It is not an official warning metric.
 
 ## Dashboard Screenshots
-
-Add screenshots here after running the dashboard locally.
-
-Suggested screenshots:
-
-- City Overview page
-- Weather Trends page
-- Extreme Conditions page
-- Heatwave / Cold Spell Detection page
-- Weather Extremity Score page
+(Will add these to the README later)
 
 ## Tech Stack
 
